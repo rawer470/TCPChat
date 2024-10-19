@@ -1,0 +1,14 @@
+C:\Users\timon\source\repos\MessServ\ClientMess\bin\Debug\net8.0\ClientMess.exe
+C:\Users\timon\source\repos\MessServ\ClientMess\bin\Debug\net8.0\ClientMess.deps.json
+C:\Users\timon\source\repos\MessServ\ClientMess\bin\Debug\net8.0\ClientMess.runtimeconfig.json
+C:\Users\timon\source\repos\MessServ\ClientMess\bin\Debug\net8.0\ClientMess.dll
+C:\Users\timon\source\repos\MessServ\ClientMess\bin\Debug\net8.0\ClientMess.pdb
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.AssemblyInfoInputs.cache
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.AssemblyInfo.cs
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.csproj.CoreCompileInputs.cache
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.dll
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\refint\ClientMess.dll
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.pdb
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ClientMess.genruntimeconfig.cache
+C:\Users\timon\source\repos\MessServ\ClientMess\obj\Debug\net8.0\ref\ClientMess.dll

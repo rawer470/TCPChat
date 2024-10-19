@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessServ", "MessServ\MessServ.csproj", "{25EC42CE-3E97-4B08-99E1-08B00CD3E4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMess", "ClientMess\ClientMess.csproj", "{72DD02D4-4B1B-40CD-AFD4-44381965FE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25EC42CE-3E97-4B08-99E1-08B00CD3E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EC42CE-3E97-4B08-99E1-08B00CD3E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EC42CE-3E97-4B08-99E1-08B00CD3E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EC42CE-3E97-4B08-99E1-08B00CD3E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DD02D4-4B1B-40CD-AFD4-44381965FE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DD02D4-4B1B-40CD-AFD4-44381965FE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DD02D4-4B1B-40CD-AFD4-44381965FE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DD02D4-4B1B-40CD-AFD4-44381965FE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D3E091-E642-4E67-8845-8A63AE33B588}
+	EndGlobalSection
+EndGlobal
