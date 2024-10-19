@@ -1,0 +1,14 @@
+C:\Users\timon\source\repos\MessServ\MessServ\bin\Debug\net8.0\MessServ.exe
+C:\Users\timon\source\repos\MessServ\MessServ\bin\Debug\net8.0\MessServ.deps.json
+C:\Users\timon\source\repos\MessServ\MessServ\bin\Debug\net8.0\MessServ.runtimeconfig.json
+C:\Users\timon\source\repos\MessServ\MessServ\bin\Debug\net8.0\MessServ.dll
+C:\Users\timon\source\repos\MessServ\MessServ\bin\Debug\net8.0\MessServ.pdb
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.AssemblyInfoInputs.cache
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.AssemblyInfo.cs
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.csproj.CoreCompileInputs.cache
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.dll
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\refint\MessServ.dll
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.pdb
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\MessServ.genruntimeconfig.cache
+C:\Users\timon\source\repos\MessServ\MessServ\obj\Debug\net8.0\ref\MessServ.dll
